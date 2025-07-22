@@ -1,1 +1,1 @@
-FROM chaitin/pandawiki:latest
+FROM chaitin/pandawiki:main
